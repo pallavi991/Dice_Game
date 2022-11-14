@@ -1,0 +1,58 @@
+body{
+    background-color: #2596be;
+}
+.heading{
+    text-align: center;
+    padding-bottom: 50px;    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.player-one{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    position: relative;
+    right: 100px;
+    top: 8px;
+}
+.player-two{
+    text-align: center;
+    position: relative;
+    left: 140px;
+    bottom: 39px;
+    
+}
+.img-one{
+    margin: auto;
+    position: relative;
+    left: 35%;
+    border-radius: 8.5%;
+    width: 200px;
+    height: 200px;
+}
+.img-two{
+    margin: auto;
+    position: relative;
+    left:37%;
+    border-radius: 8.5%;
+    width: 200px;
+    height: 200px;
+}
+.footer{
+    text-align: center;
+    padding: 5%;
+    
+    
+}
+a:link {
+    color: black;
+    text-decoration:none;
+  }
+  
+  
+a:hover {
+    text-decoration: none;
+    color: black;
+  }
+  a.one:link {color: black;}
+  
